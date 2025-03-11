@@ -5,9 +5,13 @@ This Python script fetches traffic statistics, stars, and forks for all reposito
 ## Features
 
 ✅ Fetches all repositories for a given GitHub user
+
 ✅ Retrieves traffic stats (views, clones) for each repo
+
 ✅ Displays stars and forks
+
 ✅ Sorts results by stars (descending)
+
 ✅ Outputs data in a clean tabular format
 
 ## Prerequisites
